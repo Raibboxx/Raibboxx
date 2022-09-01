@@ -21,7 +21,7 @@ Pretendo trabalhar com programação, acho incrível o "poder" que ela tem para 
 Me considero um apaixonado por tecnologia.<br>
 
 # Contato 
-Se quiser me ajudar ou me dar alguma dica relacinado a programação vou estar deixando meu discord aqui👇🏼<br>
+Se quiser me ajudar ou ajudar outras pessoas, entre no meu servidor no discord👇🏼<br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WdEb7uY5f4)
 
-Fique a vontade para me chamar lá!
+Fique a vontade para entrar!
