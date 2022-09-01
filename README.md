@@ -22,6 +22,6 @@ Me considero um apaixonado por tecnologia.<br>
 
 # Contato 
 Se quiser me ajudar ou me dar alguma dica relacinado a programação vou estar deixando meu discord aqui👇🏼<br>
-<iframe src="https://discord.com/widget?id=1014934230649811055&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord](iframe src="https://discord.com/widget?id=1014934230649811055&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe)
 
 Fique a vontade para me chamar lá!
