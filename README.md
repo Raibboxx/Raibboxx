@@ -22,6 +22,6 @@ Me considero um apaixonado por tecnologia.<br>
 
 # Contato 
 Se quiser me ajudar ou me dar alguma dica relacinado a programação vou estar deixando meu discord aqui👇🏼<br>
-Discord:Hiro_#3574
+Discord: ヒロ#7585
 
 Fique a vontade para me chamar lá!
