@@ -1,7 +1,6 @@
 
-### Olá! Eu sou o Vinicius Costa👋
+### Olá! Eu sou o Vinicius👋
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199144201060/)
 
 ![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Raibboxx&show_icons=true&theme=midnight-purple)
 
